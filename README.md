@@ -16,3 +16,7 @@ Manter uma lista simples de tarefas de uma equipe de desenvolvimento e demonstra
 ```bash
 python app.py
 ```
+
+## Atualização da atividade prática
+
+Foi incluída a contagem de tarefas não concluídas na aplicação e criado o arquivo `relatorio.py`, que apresenta um resumo por status. As alterações foram registradas em commit separado para manter a rastreabilidade.
